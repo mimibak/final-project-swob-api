@@ -1,0 +1,21 @@
+{
+  "regions": [
+    {
+      "id": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "name": "Bayern"
+    }
+  ],
+  "destionations": [
+    {
+      "id": "5170eae5-5ab3-44e4-a2ba-1180cc4fbe09",
+      "regionId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "name": "Breitenberg in Pfronten",
+      "imgSrc": "img/destionations/AggensteinBreitenberg1.jpg"
+    },
+    {
+      "id": "b7efb51b-dc98-457f-a1b8-092168e63d0a ",
+      "regionId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "name": "Chinesischer Garten München"
+    }
+  ]
+}
