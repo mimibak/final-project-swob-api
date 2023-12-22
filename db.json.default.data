@@ -1,21 +1,32 @@
 {
-  "regions": [
+  "users": [
     {
       "id": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
-      "name": "Bayern"
+      "name": "Franz Eugen Stein",
+      "mail": "me@me.de"
     }
   ],
-  "destionations": [
+  "companies": [
+    {
+      "id": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "logo": "companys/logos/nike-sports.webp",
+      "name": "Nike Sports"
+    }
+  ],
+  "offers": [
     {
       "id": "5170eae5-5ab3-44e4-a2ba-1180cc4fbe09",
-      "regionId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
-      "name": "Breitenberg in Pfronten",
-      "imgSrc": "img/destionations/AggensteinBreitenberg1.jpg"
-    },
+      "companieId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "title": "Frontend Junior Dev m/w/d",
+      "description": ""
+    }
+  ],
+  "matches": [
     {
-      "id": "b7efb51b-dc98-457f-a1b8-092168e63d0a ",
-      "regionId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
-      "name": "Chinesischer Garten München"
+      "id": "5170eae5-5ab3-44e4-a2ba-1180cc4fbe09",
+      "companieId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "userId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "isMatch": false
     }
   ]
 }
