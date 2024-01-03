@@ -2,8 +2,17 @@
   "users": [
     {
       "id": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
-      "name": "Torben Sievertsen",
+      "firstname": "Torben",
+      "lastname": "Sievertsen",
+      "username": "tobbitobbsen",
       "mail": "torben.s@me.de"
+    },
+    {
+      "id": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
+      "firstname": "Blanca",
+      "lastname": "Zimteis",
+      "username": "blanciblancs",
+      "mail": "blanca@me.de"
     }
   ],
   "companies": [
