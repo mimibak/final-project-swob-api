@@ -1,24 +1,204 @@
 {
   "users": [
     {
-      "id": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
-      "name": "Franz Eugen Stein",
-      "mail": "me@me.de"
+      "id": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
+      "name": "Torben Sievertsen",
+      "mail": "torben.s@me.de"
     }
   ],
   "companies": [
     {
-      "id": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
-      "logo": "companys/logos/nike-sports.webp",
-      "name": "Nike Sports"
+      "id": "ac13e22f-fb24-4ab1-b16c-7047ffed62fb",
+      "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8dc6bdb381a40b05ba849929f33338f9",
+      "name": "doubleSlash Net-Business GmbH",
+      "location": "Karlsruhe, BW"
+    },
+    {
+      "id": "a84da0f3-b9b2-42ed-a0b6-40dedaa19532",
+      "logo": "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.charta-der-vielfalt.de%2Fuploads%2Ftx_dreipccdvdiversity%2Fadesso%2520Logo%2520ohne%2520Claim%2520-%2520RGB%2520-%2520Screen.jpg&f=1&nofb=1&ipt=ae45f2487978da090f2ea8b88d313fba17036a46a928cd8c3842c034792e6276&ipo=images",
+      "name": "adesso SE",
+      "location": "Essen, Nrw"
+    },
+    {
+      "id": "b6856ae8-b0f5-4385-8818-bac78fd88b00",
+      "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/dfc040c052eba288c73828a2530b29c2",
+      "name": "Workwise GmbH",
+      "location": "Gescher, Nrw"
+    },
+    {
+      "id": "418aa189-937d-4f01-85a3-c21b3f6fb99c",
+      "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/c375294a4c422281f766cd0db918a392",
+      "name": "engaged & Company GmbH",
+      "location": "Berlin, Berlin"
+    },
+    {
+      "id": "7eb798b7-e20a-425e-a595-d05a5e531459",
+      "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/8eacb97c49346991dc4a2248696d2713",
+      "name": "bamero AG",
+      "location": "Home Office/Remote"
+    },
+    {
+      "id": "9c78a21a-b1dd-4a73-8e0e-bc6dcf3701cb",
+      "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/054c2b702370cdc9872e034ceed17698",
+      "name": "Landig + Lava GmbH & Co. KG",
+      "location": "Bad Saulgau"
+    },
+    {
+      "id": "4c662689-59c7-4d17-866d-06e34b0e7857",
+      "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b1707dd464dcee92b06701a8164e28b4",
+      "name": "TÜV Nord Service GmbH & Co. KG",
+      "location": "Hannover, Niedersachsen"
     }
   ],
   "offers": [
     {
-      "id": "5170eae5-5ab3-44e4-a2ba-1180cc4fbe09",
-      "companieId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
-      "title": "Frontend Junior Dev m/w/d",
-      "description": ""
+      "id": "b37873ba-98db-4864-b734-f9c1d78ebb0e",
+      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "companieId": "ac13e22f-fb24-4ab1-b16c-7047ffed62fb",
+      "title": "Junior Softwareentwickler (m/w/d)",
+      "description": "Ab sofort in Friedrichshafen oder Karlsruhe.\n\nDas erwartet dich bei uns:\n\n- Du startest als neues Mitglied in einem unserer Teams im Bereich Connected Services, IoT und Digitalisierung.\n- Die Möglichkeit, dein Know-how innerhalb verschiedener Projektteams auszubauen und in individuellen agilen Kundenprojekten mitzuwirken.\n- Erfahrene Software Developer, die dir als Coaches zur Seite stehen.\n- Kontinuierlicher Wissensaustausch und Weiterentwicklungsmöglichkeiten.\n\nTechnologie- und Methodenumfeld:\n- Java EE, Java Frameworks (z.B. Spring)\n- Container-Tools (z.B. Docker, Kubernetes)\n- Cloud-Entwicklung (z.B. Microsoft Azure, AWS, OpenShift)\n- Datenbanken (Oracle, PostgreSQL)\n- Agile Vorgehensweisen (Scrum)\n\nDeine Tätigkeiten:\n\n- Mitarbeit bei der Entwicklung von individueller Software in agilen Kundenprojekten\n- Umsetzung von qualitätssichernden Maßnahmen innerhalb von Projekten\n- Analyse und Weiterentwicklung von Kundenanforderungen\n- Möglichkeit zur Weiterentwicklung als Software Architekt (m/w/d) oder DevOps Engineer (m/w/d)\n- Bei Interesse: Mitarbeit in der Konzeption als Schnittstellentätigkeit zwischen Development und Consulting\n\nDein Profil:\n\n- Erfolgreich absolviertes Studium im Bereich Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung\n- Berührungspunkte im genannten Technologie- und Methodenumfeld\n- Zuverlässiger Teamplayer mit hoher Lern- und Einsatzbereitschaft\n- Sehr gute Deutsch- und gute Englischkenntnisse\n\nDeine Ansprechpartnerin:\n\nSonja Egle\nPersonalreferentin\n\nTelefon\n+49 7541 70078-728\n\nE-Mail\nkarriere@doubleslash.de\n\nAnschreiben & Lebenslauf\n\nAbschlusszeugnisse & aktuelle Zeugnisse/Notenspiegel\n\nArbeitszeugnisse & Zertifikate (soweit vorhanden)\n\nStandortwunsch, Startdatum/Verfügbarkeit, Gehaltsvorstellungen (bei Festanstellung)"
+    },
+    {
+      "id": "455f58da-8045-442c-a826-bc7aae3bf477",
+      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "companieId": "a84da0f3-b9b2-42ed-a0b6-40dedaa19532",
+      "title": "Trainee Softwareentwicklung Frontend (all genders)",
+      "description": "Details zum Jobangebot\n\nWir gehören zu den Top-Adressen in der IT-Welt und fokussieren uns auf die Optimierung der Kerngeschäftsprozesse unserer Kunden. Durch den smarten Einsatz maßgeschneiderter IT-Lösungen unterstützen wir unsere Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Sie bringen Ideen, fachliches Know-how und Technologien zusammen. Gemeinsam programmieren wir (deine) Zukunft bei adesso.\n\nDEINE ROLLE - DAS WARTET AUF DICH\n\nDu willst dort einsteigen, wo Zukunft programmiert wird und nach deinem Studium praktische Erfahrung mit Frontend-Technologien sammeln?\n\nDenn Frontends sind deine Leidenschaft und du hast ein Gespür für Interaktionsdesign?\n\nDann starte jetzt deine Kariere als Trainee in der Softwareentwicklung bei adesso — wir bieten dir die exzellente Basis für einen Einstieg in das Berufsleben!\n\nBei uns kannst du:\n\nin herausfordernden und spannenden Projekten mit namenhaften Kunden zusammenarbeiten\nim Team technische Web-Konzepte, Landing Pages, Microsites sowie Module erarbeiten und bei der Umsetzung mitwirken\nfachliche Lösungen zu Projekten in verschiedenen Web-Frontend Bereichen entwickeln\ndich persönlich und fachlich weiterentwickeln\n\nIn unserem 12-monatigen Trainee-Programm fördern wir deine Technologiekenntnisse.\n\nWährend des Programms steht Dir ein erfahrenes Teammitglied zur Seite und begleitet dich systematisch. Ergänzend nimmst du an unserem umfangreichen Weiterbildungsprogramm teil, das dir Trainings in den folgenden Bereichen bietet:\n\nTechnologie\nProjektmanagement\nMethodik\nSoftskills\n\nNach erfolgreicher Beendigung des Trainee-Programms muss noch lange nicht Schluss sein:\n\nGehe mit uns deinen nächsten Karriereschritt im Rahmen einer unbefristeten Einstellung oder - falls du ein Master-Studium anschließen möchtest - im Rahmen einer studienbegleitenden Tätigkeit.\n\nDEINE SKILLS - DAS BRINGST DU MIT\n\nErfolgreich abgeschlossenes Studium der Informatik oder eines vergleichbaren Studienganges\nGerne erste Entwicklungs-Erfahrung mit HTML, CSS3 und JavaScript\nIdealerweise bringst du bereits Grundkenntnisse in einem der drei bekannten JavaScript Frameworks (Angular/Vue/React) mit.\nAusgeprägte Kundenorientierung\nTeamfähigkeit, hohe Motivation und Eigeninitiative\nGute Deutschkenntnisse in Wort und Schrift\n\nUnser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.\n\nUnsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA."
+    },
+    {
+      "id": "bc56180a-af87-4eca-b2cc-5f7addb97daa",
+      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "companieId": "a84da0f3-b9b2-42ed-a0b6-40dedaa19532",
+      "title": "Trainee IT-Consulting (all genders)",
+      "description": "Details zum Jobangebot\n\nWir gehören zu den Top-Adressen in der IT-Welt und fokussieren uns auf die Optimierung der Kerngeschäftsprozesse unserer Kunden. Durch den smarten Einsatz maßgeschneiderter IT-Lösungen unterstützen wir unsere Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Sie bringen Ideen, fachliches Know-how und Technologien zusammen. Gemeinsam programmieren wir (deine) Zukunft bei adesso.\n\nDEINE ROLLE - DAS WARTET AUF DICH\n\nIn unserem wachstumsstarken Unternehmensbereich für Salesforce-Dienstleistungen bewegst du dich an der Schnittstelle zwischen den Fachabteilungen und der IT. Du gestaltest und managst die Customer Experience / CRM Kerngeschäftsprozesse unserer Kunden, die durch unsere Salesforce basierten IT-Lösungen optimiert werden. Dabei begleitest du unsere Kunden von der Strategiedefinition über die Implementierung bis zum Testing.\n\nDein Aufgabengebiet im Einzelnen beinhaltet:\n\n- Beratung bei der Ausrichtung und Gestaltung von Salesforce basierten IT Lösungen bei unseren Kunden\n- Analyse, Modellierung und Redesign von Customer Experience Prozessen, Komponenten und Systemen\n- Konzeption und Anforderungsmanagement von Salesforce basierten Softwaresystemen\n- Umsetzung von konfigurativen Anpassungen der Salesforce Plattform\n- Kontinuierliche Weiterentwicklung der Salesforce Kompetenzen durch Selbststudium mit Trailheads, Teilnahme an Produktschulungen und Abschluss weiterer Zertifizierungen\n\nAls Senior übernimmst du noch folgende Aufgaben:\n\n- Steuerung und Qualitätsmanagement der Umsetzung in verteilten Entwicklungsteams\n- Testmanagement und Bewerten der IT-Sicherheit\n- Übernahme der Teilprojektleitung sowie Führung eines Projektteams und Durchführung des Projektcontrollings\n- Fachliche Unterstützung des Vertriebs in der Angebotserstellung (u.a. Konzeption der Lösung, Aufwandschätzung)\n\nDEINE SKILLS - DAS BRINGST DU MIT\n\n- Idealerweise Erfahrung in Salesforce-Projekten oder Kenntnisse über mindestens eine marktrelevante CRM-Lösung\n- Idealerweise Nachweis von Salesforce Zertifizierungen (z.B. Administrator, App Builder etc.)\n- Affinität zu kundennahen Unternehmensprozessen in den Bereichen Vertrieb, Marketing, Service\n- Gestaltungskraft und analytisch-konzeptionelles Geschick bringst du genauso mit wie gute Deutsch- und Englischkenntnisse in Wort und Schrift\n- Projektbedingte Reisebereitschaft\n\nAls Senior bringst du mit:\n\n- Mehrjährige Erfahrung in Salesforce-Projekten\n- Nachweis von Salesforce Zertifizierungen\n- Sehr gutes Verständnis von kundennahen Unternehmensprozessen in den Bereichen Vertrieb, Marketing, Service\n- Bereitschaft zur Übernahme von Verantwortung für ein Projekt und erste Erfahrungen im Projektmanagement/–controlling\n\nUnser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.\n\nUnsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA."
+    },
+    {
+      "id": "53667d6c-e602-490a-a12d-a2a65e077c5d",
+      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "companieId": "a84da0f3-b9b2-42ed-a0b6-40dedaa19532",
+      "title": "IT-Consultant (all genders)",
+      "description": "Details zum Jobangebot\n\nWir gehören zu den Top-Adressen in der IT-Welt und fokussieren uns auf die Optimierung der Kerngeschäftsprozesse unserer Kunden. Durch den smarten Einsatz maßgeschneiderter IT-Lösungen unterstützen wir unsere Kunden dabei, das Beste aus ihrem Business und aktuellen Technologien herauszuholen. Unseren Erfolg aber erreichen wir nur durch eins: die Menschen bei adesso! Sie bringen Ideen, fachliches Know-how und Technologien zusammen. Gemeinsam programmieren wir (deine) Zukunft bei adesso.\n\nDEINE ROLLE - DAS WARTET AUF DICH\n\nDu bewegst dich gerne an der Schnittstelle zwischen Business Themen und der IT? Außerdem möchtest du aktiv die Transformation unserer Kunden aus diversen Branchen in ihren Kernprozessen und -anwendungen erfolgreich gestalten, um diese in die digitale Welt zu führen?\n\nDann bist du bei adesso genau richtig!\n\nAls IT-Consultant bist du das Bindeglied zwischen Fachabteilungen und umsetzender IT. Hier bewegst du Business Themen und gestaltest die dazugehörigen Geschäftsprozesse bei unseren Kunden, wählst die passenden Technologien aus und testest unsere IT-Lösungen.\n\nIm Detail übernimmst du dabei folgende Aufgaben:\n\n- Strategische Beratung bei der Ausrichtung und Gestaltung der IT bei unseren Kunden\n- Analyse, Modellierung und Redesign von Prozessen, Komponenten und Systemen\n- Konzeption und Anforderungsmanagement von IT-Systemen\n- Definition von Technologiestacks und Entwicklungsumgebungen\n- Überführen der Prozesse in Servicefunktionen, Komponenten und Architekturlösungen\n- Testmanagement und Bewerten der IT-Sicherheit\n- Übernahme der Teilprojektleitung sowie Führung eines Projektteams und Durchführung des Projektcontrollings\n\nDEINE SKILLS - DAS BRINGST DU MIT\n\nWir denken nicht nur in starren Anforderungsprofilen, die wir zwingend Punkt für Punkt voraussetzen. Die Erfahrung und das Projektgeschäft haben uns gezeigt, dass es sich für alle auszahlt, individuelle Stärken und Kompetenzen im Team zu nutzen und auszubauen.\nNeben einem abgeschlossenen Studium der Wirtschaftswissenschaften mit Nebenfach Informatik, (Wirtschafts-)Informatik oder vergleichbare Qualifikation zählt vor allem eines: Der Blick für das Wesentliche und die Leidenschaft für Digitale Transformationsprozesse genauso wie die Lust, sich in neue Themen reinzudenken und neue Technologien, Tools, etc. zu entdecken.\nErste Erfahrungen in der Beratung bzw. im Projektmanagement von IT-Projekten sowie in der Realisierung von Anwendungssystemen auf der Basis von J2EE und/oder .NET kannst du vorweisen durch berufliche Tätigkeiten oder bspw. durch private/wissenschaftliche Projekte\nDarüber hinaus punktest du mit großer Lernfreude genauso wie mit deiner offenen, kommunikativen und hilfsbereiten Art sowie Gestaltungskraft und analytisch-konzeptionellem Geschick.\nGute Deutschkenntnisse in Wort und Schrift sowie eine projektbezogene Reisebereitschaft runden dein Profil ab.\n\nUnser Versprechen: Du wirst dich bei uns wohlfühlen! Kollegial, familiär und auf Augenhöhe – wir leben Austausch, Teamgeist und einen respektvollen Umgang miteinander. Diversität und verschiedene Blickwinkel werden bei uns genauso geschätzt wie du als Mensch. Das und viel mehr steht für unser ganz besonderes Wir-Gefühl. Für das es sogar ein Wort gibt: adessi.\n\nUnsere Kultur und das Zusammenarbeiten sind geprägt von gegenseitiger Wertschätzung, Anerkennung und Unterstützung. Das verbindet uns hierarchieübergreifend – auch im Home-Office. So belegen wir zum wiederholten Mal den 1. Platz beim Wettbewerb „Deutschlands Beste Arbeitgeber in der ITK“!. Unser umfangreiches Trainingsangebot und ein transparentes Laufbahnstufenmodell für alle sorgen dafür, dass deine Entwicklung bei uns nicht stillsteht. Denn gemeinsam zu wachsen und Chancengeber zu sein, das ist programmiert in unserer DNA."
+    },
+    {
+      "id": "b4e12587-75ee-46de-934e-18795359bef2",
+      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "companieId": "b6856ae8-b0f5-4385-8818-bac78fd88b00",
+      "title": "Frontend Entwickler (w/m/d)",
+      "description": "Über SHOPMACHER eCommerce GmbH & Co. KG:\n\nWir sind Experten für Aufbau und Implementierung digitaler Ökosysteme mit Schwerpunkt E-Commerce. Seit der Gründung 2005 haben sie sich zu Deutschlands führender Spezialagentur für die KPI-getriebene Weiterentwicklung von digitalen Vertriebskanälen entwickelt. Mit kontinuierlichen und messbaren Verbesserungen helfen sie Plattformbetreibern, den schnell wechselnden Anforderungen im transaktionalen Business gerecht zu werden. Als Teil der Engbers-Gruppe haben die 80 Mitarbeiter in Gescher und Vietnam nicht nur IT-, sondern auch Handelskompetenz in ihrer DNA.\nWir werden daher oft als Retter für festgefahrene Plattform-Projekte im Enterprise-Umfeld an Bord geholt. Auf der Kundenliste stehen längst nicht mehr nur Handelsunternehmen, sondern ganz unterschiedliche Player, die besonders hohe Anforderungen an ein gut funktionierendes digitales Ökosystem stellen – etwa der BVB, Michelin, die gamescom oder die ANWR Group mit ihren Brands schuhe.de und Sport 2000.\n\nDas bieten wir dir\n\n- Eine echte Mission: Unsere Shops sollen nicht nur gut aussehen und funktionieren – sie sollen sich auch top “anfühlen”\n- Die Gelegenheit, erstklassige Frontends wirklich im Team zu gestalten und nicht einfach nur PSDs umzusetzen\n- State-of-the-Art Infrastruktur – Atlassian, Jenkins & Co.\n- Commitment-zentriertes Arbeiten – die Teams entscheiden, nicht die Chefs\n- Regelmäßige Teilnahme an Fachtagungen und -konferenzen\n- Gezielte Mitarbeiterentwicklung\n- Die Chance, dein Arbeitsumfeld selbst mit zu gestalten\n- Flexible Arbeitsmodelle – passend zu einem Leben neben der Arbeit\n- Remote Work in Abstimmung mit deinem Team\n- Tägliches Frühstück, inkl. Obst und Getränke\n- Arbeiten im Münsterland - Hightech ohne Stau und Schickimicki\n\nDas wären deine Aufgaben\n\n- Darum geht es am Ende: Verkaufen von Produkten im Web\n- Umsetzung der Frontend-Anforderungen\n- Aber auch: Formulierung der Frontend-Anforderungen\n- Grenzbereich Frontend/Backend, JavaScript, Symfony\n\nDas solltest du idealerweise mitbringen\n\n- Erfahrung in der Entwicklung von Webanwendungen\n- Sehr gute Kenntnisse in HTML5, CSS3, Javascript, LESS und/oder SASS\n- Kenntnisse in Bootstrap, Smarty und Twig\n- Erfahrungen umsetzungsorientierten Designtools wie Sketch, Invision oder Zeplin\n- Erfahrungen mit automatisierten Frontend-Tests (z.B. behat)\n- Erfahrungen in der Optimierung für mobile Endgeräte\n- Verständnis typischer Commerce-Anforderungen: Checkout, Warenkorb, Conversion\n- Konzeptionelles Verständnis: Im Frontend führst du den User\n- Sinn für Ästhetik und Design, Typografie und Usability\n- Neugier und Innovationsdrang\n- Gesunden Pragmatismus\n\nUnser Jobangebot FRONTEND ENTWICKLER (W/M/D) klingt vielversprechend?\n\nBei unserem Partner Campusjäger by Workwise ist eine Bewerbung für diesen Job in nur wenigen Minuten und ohne Anschreiben möglich. Anschließend kann der Status der Bewerbung live verfolgt werden. Wir freuen wir uns auf eine Bewerbung über Campusjäger by Workwise.\n\nMehr Informationen zu uns und unseren Jobangeboten findet man auf unserem Unternehmensprofil bei Campusjäger by Workwise."
+    },
+    {
+      "id": "2f04813b-e0fb-4021-b7d2-47267fa011f2",
+      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "companieId": "418aa189-937d-4f01-85a3-c21b3f6fb99c",
+      "title": "Frontend Entwickler (m/w/d) – Remote 100%",
+      "description": "Highlights der Stelle:\n\nExpandierendes Unternehmen in Berlin-Mitte/Kreuzberg\nGroßzügige Homeoffice-Regelung\nFlexibilität bei der Urlaubsplanung\n\nFirmenprofil:\n\nFür ein innovatives und unabhängiges Verbrauchermagazin suchen wir zum nächstmöglichen Zeitpunkt eine/n Frontend Entwicklerin (m/w/d) in Festanstellung.\n\nDie Betreuung und Vermittlung sowie alle unsere weiteren Serviceleistungen sind für Sie als Bewerberin kostenfrei.\n\nIhre Aufgaben:\n\nUmsetzung neuer Webseiten-Module, SEO- und Speed-Optimierung der Portale\nOptimierung der Benutzerfreundlichkeit der hauseigenen Plattform in Zusammenarbeit mit Design- und Produktmanagement-Team\nErarbeitung passgenauer sowie innovativer Anwendungen für User und Mitarbeiter\nLeitung und Coaching des Frontend-Entwicklungsteams\nGanzheitliche Betreuung von Prozessen und Workflows\nNutzung von JavaScript, TypeScript, HTML, CSS, Nuxt, Jest, SAAS, Amazon AWS\n\nRahmenbedingungen:\n\nUnbefristete Festanstellung\n30 Urlaubstage\nHomeoffice\nMitarbeiter-Events\nParkplatz\nDiensthandy\nKostenlose Getränke + Snacks\nArt der Stelle: Vollzeit, Festanstellung\n\nArbeitszeiten:\n\nMontag bis Freitag\nArbeitsort: Vor Ort"
+    },
+    {
+      "id": "26bcb643-850e-4e99-9a3e-4fa8279fa12a",
+      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "companieId": "7eb798b7-e20a-425e-a595-d05a5e531459",
+      "title": "JavaScript / Low-Code Developer",
+      "description": "INFO: Remote Job / Homeoffice möglich!\n\nFallen Dir im alltäglichen Leben oft Situation auf, in denen digitale Lösungen das Leben leichter machen könnten? Uns auch! Unsere Kunden sind ebenso vielfältig wie unsere Projekte. Wir wollen die Digitalisierung vorantreiben und gemeinsam mit Dir Mehrwerte für unsere Kunden schaffen.\n\nFür unsere Kundenprojekte setzen wir auf Dein Know-How als Experte im Gestalten von digital unterstützen Arbeitswelten!\n\nDu hast bereits mindestens zwei Jahre Berufserfahrung?\n\nAuf Dich wartet ein abwechslungsreiches Aufgabengebiet mit vielen Freiheiten. Und glaub uns, wenn wir das so schreiben, meinen wir das auch so: wir steuern und begleiten täglich Kunden im Bereich der IT- und Digitalisierungsstrategie, im Prozessmanagement, der Software-Auswahl, Anforderungsmanagement, Changemanagement, LowCode-Entwicklung oder koordinieren externe Partner, die das für uns tun.\n\nWenn Du Bock hast, Dein Talent bei uns einzubringen, wartet darüber hinaus…\n\n…spannende und vielseitige Projekte.\n…eine freie Wahl des Arbeitsplatzes. Arbeite in unseren modernen Büroräumen direkt am Seerhein oder von zu Hause aus.\n… einen Freitag pro Woche für Deine Ideen und persönliche Weiterentwicklung. Konzipiere neue Workshops, tausche Dich mit Deinen Teamkollegen aus, nimm an SQUAD-Sessions teil oder bringe Deine eigenen Ideen ein.\n…ein Platz in einem wachsenden Unternehmen mit hochmotivierten Teams und Perspektive.\n…wir könnten jetzt noch weitere Benefits aufzählen…Obstkorb, kostenloser Kaffee, arbeiten wo andere Urlaub machen, flache Hierarchien…komm einfach vorbei und finde es raus!\n\nVoraussetzungen\n\nDas bringst Du mit\n\nEin erfolgreich abgeschlossenes Studium in einem IT nahem Bereich oder einem MINT-Fach, eine vergleichbare Qualifikation oder einschlägige Berufserfahrung\n*\nPraktische Erfahrungen in einem der folgenden Themenfeldern:\nSoftare-Entwicklung\nLow Code / No Code\nUmfangreiche Anwendungskenntnisse in JavaScript, bestenfalls mit mindestens einem der gängigen Frontend-Frameworks wie z.B. Angular, React oder Vue\nErfahrung im Bereich Datenbanktechnologien (MySQL) und Schnittstellenanbindung (REST, SOAP etc.) wünschenswert\nErfahrung in der Backend-Entwicklung, bestenfalls mit Java und/oder Node.js\nSpaß am Arbeiten im Team und Bereitschaft mit unseren Kunden zu interagieren.\nOptional gerne Erfahrung im Bereich LowCode-Entwicklung\nLust auf Neues und vor allem auf neue Technologien.\nReisebereitschaft - wenn auch zunehmend sehr selten - ist wünschenswert.\nSehr gute Deutschkenntnisse!!!\n\nVorteile\n\nbamero benefits\n\nFlexible Arbeitszeiten\nFlexible Arbeitsorte: Home Office oder ein modernes Office\nJunges Team\nAttraktive Lage direkt am Bodensee, Kaffee & Vitamine\n'Innovation Friday' - Ein Tag für deine Ideen und unsere Weiterentwicklung\nOKR\nEigenverantwortliches Arbeiten von Anfang an\nNeue Organisationsformen mit flachen Hierarchien und viel Entscheidungsfreiheit\nDeinen Platz in einem jungen, wachsenden Unternehmen\nJobrad, Hansefit und mehr\n\nArt der Stelle: Vollzeit, Teilzeit, Festanstellung\n\nGehalt: 45.000,00€ - 65.000,00€ pro Jahr\n\nErwartete Arbeitsstunden: mindestens 32 pro Woche\n\nArbeitszeiten:\n\nGleitzeit\nMontag bis Freitag\n\nLeistungen:\n\nBetriebliche Altersvorsorge\nErfolgsbeteiligung\nFirmenevents\nFlexible Arbeitszeiten\nHomeoffice-Möglichkeit\nMentoring-Programm für Mitarbeiter\n\nBerufserfahrung:\n\nJavaScript: 2 Jahre (Erforderlich)\n\nSprache:\n\nDeutsch (Erforderlich)\n\nArbeitsort: Homeoffice"
+    },
+    {
+      "id": "7ea44cb3-889f-43aa-881d-6f83786150be",
+      "categoryID": "18b38ac4-9469-4153-8111-f1363c4367b3",
+      "companieId": "9c78a21a-b1dd-4a73-8e0e-bc6dcf3701cb",
+      "title": "Art Director für die Marke DRY AGER (m/w/d)",
+      "description": "Ihre Aufgaben: VIELSEITIG, KREATIV UND SPANNEND\n\nSie sind verantwortlich für die visuelle Gestaltung unserer Projekte und tragen maßgeblich zur Entwicklung unserer Markenidentität bei Die Konzeption und Umsetzung von kreativen Designlösungen für Print- und digitale Medien gehören mit zu Ihrem Aufgabenbereich Entwicklung von visuellen Konzepten, Layouts und Designs unter Berücksichtigung der Unternehmensziele und Zielgruppen Unterstützung bei der Umsetzung von Grafiken für das Web Frontend Planung, Gestaltung und Umsetzung von Kampagnen im Team Enge Zusammenarbeit mit anderen Abteilungen wie dem Vertrieb, um eine einheitliche Markenkommunikation sicherzustellen Überwachung des Designprozesses von der Idee bis zur finalen Umsetzung\n\nIhr Profil: IDEENREICH, STRUKTURIERT UND TEAMPLAYER\n\nAbgeschlossenes Studium im grafischen Bereich (z.B. Kommunikations-, Grafik- oder Mediendesign) oder eine vergleichbare abgeschlossene Berufsausbildung Mehrjährige Berufserfahrung als Art Director oder in einer ähnlichen Position Fundierte Kenntnisse in den gängigen Grafikprogrammen (Adobe Creative Suite) Sie haben einen Blick für klare, visuelle Kommunikation und ein Gespür für Verkaufsförderungsmaßnahmen Kreativität, Gewissenhaftigkeit sowie eine präzise & strukturierte Arbeitsweise auch unter Zeitdruck zeichnen Sie aus Innovationsgeist und ein ausgeprägtes Gespür für Ästhetik Erfahrung in der Leitung von Designprojekten Sie bringen sehr gute Deutsch- sowie Englischkenntnisse in Wort und Schrift mit Affinität für BBQ, Kochen bzw. Food & Lebensmittel\n\nWer wir sind: INNOVATIV, DYNAMISCH UND LUST AUF MEHR – Landig + Lava GmbH & Co. KG\n\nErfahrenes und super eingespieltes Team Unternehmen auf Expansionskurs Familiäre Stimmung Spannende Marken und Produkte: DRY AGER, Landig, Lava Stark am Markt: Teils Markt/- bzw. Technologieführer Wir legen Wert auf Qualität und Hochwertigkeit\n\nUnser Angebot:\n\nÜberdurchschnittliches Gehalt Unbefristeter Arbeitsvertrag Gleitzeitmodell mit flexiblen Arbeitszeiten Beschäftigung in Vollzeit (40h) Home Office Urlaubsgeld Weihnachtsgeld Jährliche Bonuszahlung Tankgutschein Jobrad möglich Kostenloses Obst, Kaffee, Wasser & Eis Überstundenausgleich als Freizeitausgleich oder als zusätzliche Vergütung Unterstützung bei der Vereinbarkeit von Familie und Beruf Mitarbeiterevents und Mitarbeiterrabatte Fachliche und persönliche Weiterbildung Abwechslungsreiche und verantwortungsvolle Tätigkeit\n\nHier finden Sie unsere Social Media Kanäle:\n\nLandig: Facebook/ Instagram Lava: Facebook/ Instagram DRY AGER: Facebook/ Instagram\n\nInteressiert? Neugierig? Voller Tatendrang? Dann gleich bewerben!\n\nWIR FREUEN UNS AUF SIE!\n\nArt der Stelle: Vollzeit\n\nArbeitszeiten:\n\nMontag bis Freitag\n\nLeistungen:\n\nFlexible Arbeitszeiten\nKostenlose Getränke\n\nSonderzahlungen:\n\nUrlaubsgeld\n\nArbeitsort: Vor Ort"
+    },
+    {
+      "id": "122d56c9-5d8e-46dd-bf87-997b411e45d4",
+      "categoryID": "18b38ac4-9469-4153-8111-f1363c4367b3",
+      "companieId": "4c662689-59c7-4d17-866d-06e34b0e7857",
+      "title": "Senior Art Director Digital (m/w/d)",
+      "description": "Standort(e): Hannover\nVertrag: Anstellung – unbefristet\nArbeitszeitmodell: Vollzeit\n\nSenior Art Director Digital (m/w/d)\n\nWas wir Ihnen bieten\nFlexible Arbeitszeiten, Freizeitausgleich und die Möglichkeit zu ortsflexiblem Arbeiten oder Homeoffice unterstützen die Vereinbarkeit von Berufs- und Privatleben. Zahlreiche Angebote an internen Seminaren, Trainings oder Zertifikatskursen, beispielsweise für Projektmanagement oder digitale Transformation, sowie Entwicklungsprogramme für (zukünftige) Führungskräfte. Zu Ihrem Onboarding-Programm gehört ein konzernweites Event, in welchem Sie eine Basis für das konzernweite Netzwerken legen. Umfangreiche Zusatzleistungen: Vermögenswirksame Leistungen, betriebliche Altersvorsorge, Beratung in allen Bereichen der Kinderbetreuung und Pflegebedürftigkeit, Ferienprogramme, Gesundheitsangebote, Bonusprogramme, Deutschlandticket oder Vergünstigungen in Betriebsrestaurants sind nur einige Beispiele.\n\nWas Sie bei uns bewegen\nSie konzipieren und visualisieren Website-Komponenten aller TÜV NORD Websites. Dazu zählen die Erstellung von Wireframes und Webdesign-Komponenten. Sie erstellen Website-Prototypen, gestalten Landingpages und Best Practice Pages. Sie stimmen sich eigenverantwortlich mit den involvierten Geschäftsbereichen, Dienstleistern sowie den Entwickler:innen ab. Sie beraten mit Ihrem Design-Know-how bei der strategischen Weiterentwicklung der weltweiten TÜV NORD Websites. Sie pflegen den Web-Styleguide in Figma und entwickeln diesen kontinuierlich weiter. Sie stellen außerdem die fachgerechte Umsetzung des konzernweiten Markenauftritts auf den TÜV NORD Websites sicher.\n\nWas Sie ausmacht\nSie haben eine abgeschlossene Ausbildung als Mediengestalter:in mit Schwerpunkt Digital oder ein abgeschlossenes Studium im Bereich Webdesign/Grafikdesign mit einschlägiger Projekt- bzw. Berufserfahrung. Sie sind vertraut mit CMS-Systemen (idealerweise TYPO3). Profunde Kennt¬nisse in Adobe Creative Suite sowie in gängigen Prototyping-Tools (idealerweise Figma) bringen Sie ebenfalls mit. Spaß am Design von Webseiten und Webcontent sowie Verständnis für Usability und User Experience. HTML- und CSS-Kenntnisse sind von Vorteil. Kommunikationsvermögen und gute Englischkenntnisse.\n\nInteressiert?\nDann freuen wir uns auf Ihre aussagekräftige Bewerbung. Bewerben Sie sich einfach über den Online-Bewerben-Button. Für einen direkten Austausch besuchen Sie uns gerne unter folgendem Link: https://www.tuev-nord-group.com/de/karriere/laecheln-statt-lebenslauf/\n\nDie TÜV NORD GROUP legt Wert auf Vielfalt und Chancengleichheit, unabhängig von Alter, Geschlecht, Behinderung, ethnischer Herkunft, sexueller Orientierung oder sozialem/religiösem Hintergrund. Wenn Sie sich für diese Stelle interessieren, Ihre bisherigen Erfahrungen aber nicht perfekt mit jedem Punkt in der Stellenbeschreibung übereinstimmen, ermutigen wir Sie, sich dennoch zu bewerben!\n\nJobID: H/S00114\nBewerbungsschluss: keiner\n\nÜber die TÜV NORD GROUP\nIndividuelle Karriereplanung und -förderung, abwechslungsreiche und herausfordernde Aufgaben in Verbindung mit Gestaltungsfreiheit: Das macht das Arbeitsumfeld der TÜV NORD GROUP aus und ermöglicht exzellente Lösungen für Menschen, Technik und Umwelt in mehr als 100 Ländern. Wir handeln jederzeit verantwortlich, vereinen Diversität mit Kollegialität und nutzen die soziale Vielfalt konstruktiv als eine Quelle für Kreativität und Innovationskraft in unserem Unternehmen. Bringen Sie Ihr Talent bei uns ein!\n\nÜber den Geschäftsbereich\nDiese Stelle ist ausgeschrieben für in Vollzeit.\n\nJetzt bewerben!\n\nTÜV NORD Service GmbH & Co. KG\n\nJoana Sommer\n+49 511 998 62788\n\nwww.tuev-nord-group.com/de/karriere/\n\nTÜV®"
+    }
+  ],
+  "category": [
+    {
+      "id": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "imageSrc": "/src/assets/Images/fahrul-razi-BR6lrzCPYPk-unsplash.jpeg",
+      "alt": "a work desk with two monitors and open code",
+      "caption": "IT & Consulting"
+    },
+    {
+      "id": "18b38ac4-9469-4153-8111-f1363c4367b3",
+      "imageSrc": "/src/assets/images/davisuko-5E5N49RWtbA-unsplash.jpeg",
+      "alt": "Blue Background and table with a blue sliced orange",
+      "caption": "Art & Design"
+    },
+    {
+      "id": "bf9b08b5-b8de-4af6-9408-feb7261dac6c",
+      "imageSrc": "/src/assets/images/adem-ay-Tk9m_HP4rgQ-unsplash.jpeg",
+      "alt": "A phone with social media apps",
+      "caption": "Sales & Marketing"
+    },
+    {
+      "id": "fa67e111-db23-4404-9126-f60e8ae1ba44",
+      "imageSrc": "/src/assets/images/mika-baumeister-bGZZBDvh8s4-unsplash.jpeg",
+      "alt": "A photo from the EZB building with the EZB sign in front in frankfurt",
+      "caption": "Engineering & Architecture"
+    },
+    {
+      "id": "cc8eeefb-6516-48e1-8fed-7794fa3a14c7",
+      "imageSrc": "/src/assets/images/natali-quijano-N79MYsd2Ce4-unsplash.jpeg",
+      "alt": "Wing of a plane above the clouds",
+      "caption": "Tourism & Service"
+    },
+    {
+      "id": "4cb2f8b4-ece7-49b8-8fe1-d3f30bd3452c",
+      "imageSrc": "/src/assets/images/nick-karvounis-XcLQN-2R9CM-unsplash.jpeg",
+      "alt": "A mans hands while working with tools",
+      "caption": "Craftmanship"
+    },
+    {
+      "id": "b27e93db-1a2e-43ec-85c3-8af16bf87611",
+      "imageSrc": "/src/assets/Images/drew-hays-tGYrlchfObE-unsplash.jpeg",
+      "alt": "A girl writing on a chalkboard",
+      "caption": "Science & Research"
+    },
+    {
+      "id": "af970799-c218-4875-8713-c6e6650b8927",
+      "imageSrc": "/src/assets/Images/christina-wocintechchat-com-vzfgh3RAPzM-unsplash.jpeg",
+      "alt": "A picture in front of stacked container",
+      "caption": "Human Resources"
+    },
+    {
+      "id": "c1fd2f04-c27e-4466-a8fb-702dc8e7e6d8",
+      "imageSrc": "/src/assets/Images/myriam-zilles-KltoLK6Mk-g-unsplash.jpeg",
+      "alt": "A girl writing on a chalkboard",
+      "caption": "Healthcare & Medicine"
+    },
+    {
+      "id": "37986a07-123f-442a-98f8-38b664713fcc",
+      "imageSrc": "/src/assets/Images/tierra-mallorca-rgJ1J8SDEAY-unsplash.jpeg",
+      "alt": "A picture in front of stacked container",
+      "caption": "Real Estate"
+    },
+    {
+      "id": "13262340-2a81-4ed0-bdd4-dd13f397adf7",
+      "imageSrc": "/src/assets/images/nikhita-s-NsPDiPFTp4c-unsplash.jpeg",
+      "alt": "A girl writing on a chalkboard",
+      "caption": "Social Services & Nonprofit"
+    },
+    {
+      "id": "8c417be2-e765-4bf6-a4e0-16ed45a85d33",
+      "imageSrc": "src/assets/Images/carla-martinesi-ZW9CSUdANqw-unsplash.jpeg",
+      "alt": "A picture in front of stacked container",
+      "caption": "Food & Cullinary Arts"
+    },
+    {
+      "id": "0762d2c5-66c7-4524-bc46-925445076389",
+      "imageSrc": "src/assets/Images/charanjeet-dhiman-mHusyBu4bxM-unsplash.jpeg",
+      "alt": "A girl writing on a chalkboard",
+      "caption": "Customer Service"
+    },
+    {
+      "id": "4492f4e9-d1f8-40fe-b9ae-1163707d343b",
+      "imageSrc": "/src/assets/Images/victoria-kubiaki-emPsZ6MBCUs-unsplash.jpeg",
+      "alt": "A picture in front of stacked container",
+      "caption": "Economics"
     }
   ],
   "matches": [
