@@ -247,21 +247,18 @@
     {
       "id": "5170eae5-5ab3-44e4-a2ba-1180cc4fbe09",
       "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
-      "companieId": "ac13e22f-fb24-4ab1-b16c-7047ffed62fb",
       "offerId": "b37873ba-98db-4864-b734-f9c1d78ebb0e",
       "isMatch": false
     },
     {
       "id": "ff4cc087-8846-447e-a976-f8ccfe70104e",
       "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
-      "companieId": "a84da0f3-b9b2-42ed-a0b6-40dedaa19532",
       "offerId": "26bcb643-850e-4e99-9a3e-4fa8279fa12a",
       "isMatch": false
     },
     {
       "id": "79114403-78e0-4b7a-b25c-37e155317442",
       "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
-      "companieId": "a84da0f3-b9b2-42ed-a0b6-40dedaa19532",
       "offerId": "b4e12587-75ee-46de-934e-18795359bef2",
       "isMatch": false
     }
