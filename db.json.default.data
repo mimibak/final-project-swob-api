@@ -2,92 +2,24 @@
   "users": [
     {
       "id": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
-      "firstname": "Torben",
-      "lastname": "Giga",
-      "username": "gigaTorben",
-      "mail": "gigaTorben@me.de",
-      
+      "name": "Torben Sievertsen",
+      "mail": "torben.s@me.de"
     },
     {
-      "id": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
-      "firstname": "Blanca",
-      "lastname": "Zimteis",
-      "username": "zimteisBlanca",
-      "mail": "zimteis@me.de",
-      
-    },
-    {
-      "id": "14659e2b-5a4e-4c98-9acd-6bcae5e21e19",
-      "firstname": "Giuliano",
-      "lastname": "Esposito",
-      "username": "maschineChronike",
-      "mail": "chronike@me.de",
-      
-    }
-  ],
-  "filterdetails": [
-    {
-      "id:": "",
-      "location:": "",
-      "employmentType": "",
-      "education": "",
-      "howWork": []
-    },
-    {
-      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
-      "location": "mainz",
-      "employmentType": "fulltime",
-      "education": "Student",
-      "howWork": "remote",
-      "id": "4aa752ac-24a8-42b8-a783-18a01ab445bc"
-    },
-    {
-      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
-      "location": "stuttgart",
-      "employmentType": "trainee",
-      "education": "Master",
-      "howWork": "remote",
-      "id": "5dd9f302-6247-494d-a9d9-3fb9a7fa5661"
-    },
-    {
-      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
-      "location": "dusseldorf",
-      "employmentType": "freelancer",
-      "education": "Fachabitur",
-      "howWork": "remote",
-      "id": "1704dc41-6bfc-4423-80bd-e3a3a92157f6"
-    },
-    {
-      "userId": "14659e2b-5a4e-4c98-9acd-6bcae5e21e19",
-      "location": "dusseldorf",
-      "employmentType": "trainee",
-      "education": "Student",
-      "howWork": "office",
-      "id": "8c70cd97-c69c-4535-b751-c28d29642054"
-    },
-    {
-      "userId": "14659e2b-5a4e-4c98-9acd-6bcae5e21e19",
-      "location": "dusseldorf",
-      "employmentType": "open-end",
-      "education": "Student",
-      "howWork": "office",
-      "id": "edb45e3e-b705-4586-ada2-d060d84fa061"
-    },
-    {
-      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
-      "location": "dusseldorf",
-      "employmentType": "part-time",
-      "education": "Student",
-      "howWork": "office",
-      "id": "947abe58-e314-4be8-9082-3bb864e1501e"
-    },
-    {
-      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
-      "location": "dusseldorf",
-      "employmentType": "part-time",
-      "education": "Student",
-      "howWork": "office",
-      "id": "e51515a4-365b-4feb-8c5c-1b4c84833996"
+      "username": "Vanillabacke",
+      "password": "qwer",
+      "repeatPassword": "qwer",
+      "lastname": "Mimi",
+      "firstname": "Giulio",
+      "birthdate": "199020-02-11",
+      "gender": "diverse",
+      "email": "mimigiulio@diverse.de",
+      "phone": "12345678",
+      "street": "HilfeHilfe 123",
+      "postalcode": 1234,
+      "city": "Frechen",
+      "country": "DE",
+      "id": "ab76116d-e14e-4cab-86f2-41b759ca7e51"
     }
   ],
   "companies": [
@@ -132,24 +64,12 @@
       "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/b1707dd464dcee92b06701a8164e28b4",
       "name": "TÜV Nord Service GmbH & Co. KG",
       "location": "Hannover, Niedersachsen"
-    },
-    {
-      "id": "52d8b8ca-30ef-4654-9721-5bd76713e054",
-      "logo": "https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/bb60b849b8c220cca9359bf8515ce5b1",
-      "name": "Recrutis Consulting GmbH",
-      "location": "Hofheim am Taunus, Hessen"
-    },
-    {
-      "id": "44b7a287-6b23-4a77-ac77-fa0e5e7789c3",
-      "logo": "",
-      "name": "Planet A Foods GmbH",
-      "location": "Planegg, Bayern"
     }
   ],
   "offers": [
     {
       "id": "b37873ba-98db-4864-b734-f9c1d78ebb0e",
-      "categoryId": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
       "companieId": "ac13e22f-fb24-4ab1-b16c-7047ffed62fb",
       "title": "Junior Softwareentwickler (m/w/d)",
       "description": "Ab sofort in Friedrichshafen oder Karlsruhe.\n\nDas erwartet dich bei uns:\n\n- Du startest als neues Mitglied in einem unserer Teams im Bereich Connected Services, IoT und Digitalisierung.\n- Die Möglichkeit, dein Know-how innerhalb verschiedener Projektteams auszubauen und in individuellen agilen Kundenprojekten mitzuwirken.\n- Erfahrene Software Developer, die dir als Coaches zur Seite stehen.\n- Kontinuierlicher Wissensaustausch und Weiterentwicklungsmöglichkeiten.\n\nTechnologie- und Methodenumfeld:\n- Java EE, Java Frameworks (z.B. Spring)\n- Container-Tools (z.B. Docker, Kubernetes)\n- Cloud-Entwicklung (z.B. Microsoft Azure, AWS, OpenShift)\n- Datenbanken (Oracle, PostgreSQL)\n- Agile Vorgehensweisen (Scrum)\n\nDeine Tätigkeiten:\n\n- Mitarbeit bei der Entwicklung von individueller Software in agilen Kundenprojekten\n- Umsetzung von qualitätssichernden Maßnahmen innerhalb von Projekten\n- Analyse und Weiterentwicklung von Kundenanforderungen\n- Möglichkeit zur Weiterentwicklung als Software Architekt (m/w/d) oder DevOps Engineer (m/w/d)\n- Bei Interesse: Mitarbeit in der Konzeption als Schnittstellentätigkeit zwischen Development und Consulting\n\nDein Profil:\n\n- Erfolgreich absolviertes Studium im Bereich Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung\n- Berührungspunkte im genannten Technologie- und Methodenumfeld\n- Zuverlässiger Teamplayer mit hoher Lern- und Einsatzbereitschaft\n- Sehr gute Deutsch- und gute Englischkenntnisse\n\nDeine Ansprechpartnerin:\n\nSonja Egle\nPersonalreferentin\n\nTelefon\n+49 7541 70078-728\n\nE-Mail\nkarriere@doubleslash.de\n\nAnschreiben & Lebenslauf\n\nAbschlusszeugnisse & aktuelle Zeugnisse/Notenspiegel\n\nArbeitszeugnisse & Zertifikate (soweit vorhanden)\n\nStandortwunsch, Startdatum/Verfügbarkeit, Gehaltsvorstellungen (bei Festanstellung)"
@@ -209,20 +129,6 @@
       "companieId": "4c662689-59c7-4d17-866d-06e34b0e7857",
       "title": "Senior Art Director Digital (m/w/d)",
       "description": "Standort(e): Hannover\nVertrag: Anstellung – unbefristet\nArbeitszeitmodell: Vollzeit\n\nSenior Art Director Digital (m/w/d)\n\nWas wir Ihnen bieten\nFlexible Arbeitszeiten, Freizeitausgleich und die Möglichkeit zu ortsflexiblem Arbeiten oder Homeoffice unterstützen die Vereinbarkeit von Berufs- und Privatleben. Zahlreiche Angebote an internen Seminaren, Trainings oder Zertifikatskursen, beispielsweise für Projektmanagement oder digitale Transformation, sowie Entwicklungsprogramme für (zukünftige) Führungskräfte. Zu Ihrem Onboarding-Programm gehört ein konzernweites Event, in welchem Sie eine Basis für das konzernweite Netzwerken legen. Umfangreiche Zusatzleistungen: Vermögenswirksame Leistungen, betriebliche Altersvorsorge, Beratung in allen Bereichen der Kinderbetreuung und Pflegebedürftigkeit, Ferienprogramme, Gesundheitsangebote, Bonusprogramme, Deutschlandticket oder Vergünstigungen in Betriebsrestaurants sind nur einige Beispiele.\n\nWas Sie bei uns bewegen\nSie konzipieren und visualisieren Website-Komponenten aller TÜV NORD Websites. Dazu zählen die Erstellung von Wireframes und Webdesign-Komponenten. Sie erstellen Website-Prototypen, gestalten Landingpages und Best Practice Pages. Sie stimmen sich eigenverantwortlich mit den involvierten Geschäftsbereichen, Dienstleistern sowie den Entwickler:innen ab. Sie beraten mit Ihrem Design-Know-how bei der strategischen Weiterentwicklung der weltweiten TÜV NORD Websites. Sie pflegen den Web-Styleguide in Figma und entwickeln diesen kontinuierlich weiter. Sie stellen außerdem die fachgerechte Umsetzung des konzernweiten Markenauftritts auf den TÜV NORD Websites sicher.\n\nWas Sie ausmacht\nSie haben eine abgeschlossene Ausbildung als Mediengestalter:in mit Schwerpunkt Digital oder ein abgeschlossenes Studium im Bereich Webdesign/Grafikdesign mit einschlägiger Projekt- bzw. Berufserfahrung. Sie sind vertraut mit CMS-Systemen (idealerweise TYPO3). Profunde Kennt¬nisse in Adobe Creative Suite sowie in gängigen Prototyping-Tools (idealerweise Figma) bringen Sie ebenfalls mit. Spaß am Design von Webseiten und Webcontent sowie Verständnis für Usability und User Experience. HTML- und CSS-Kenntnisse sind von Vorteil. Kommunikationsvermögen und gute Englischkenntnisse.\n\nInteressiert?\nDann freuen wir uns auf Ihre aussagekräftige Bewerbung. Bewerben Sie sich einfach über den Online-Bewerben-Button. Für einen direkten Austausch besuchen Sie uns gerne unter folgendem Link: https://www.tuev-nord-group.com/de/karriere/laecheln-statt-lebenslauf/\n\nDie TÜV NORD GROUP legt Wert auf Vielfalt und Chancengleichheit, unabhängig von Alter, Geschlecht, Behinderung, ethnischer Herkunft, sexueller Orientierung oder sozialem/religiösem Hintergrund. Wenn Sie sich für diese Stelle interessieren, Ihre bisherigen Erfahrungen aber nicht perfekt mit jedem Punkt in der Stellenbeschreibung übereinstimmen, ermutigen wir Sie, sich dennoch zu bewerben!\n\nJobID: H/S00114\nBewerbungsschluss: keiner\n\nÜber die TÜV NORD GROUP\nIndividuelle Karriereplanung und -förderung, abwechslungsreiche und herausfordernde Aufgaben in Verbindung mit Gestaltungsfreiheit: Das macht das Arbeitsumfeld der TÜV NORD GROUP aus und ermöglicht exzellente Lösungen für Menschen, Technik und Umwelt in mehr als 100 Ländern. Wir handeln jederzeit verantwortlich, vereinen Diversität mit Kollegialität und nutzen die soziale Vielfalt konstruktiv als eine Quelle für Kreativität und Innovationskraft in unserem Unternehmen. Bringen Sie Ihr Talent bei uns ein!\n\nÜber den Geschäftsbereich\nDiese Stelle ist ausgeschrieben für in Vollzeit.\n\nJetzt bewerben!\n\nTÜV NORD Service GmbH & Co. KG\n\nJoana Sommer\n+49 511 998 62788\n\nwww.tuev-nord-group.com/de/karriere/\n\nTÜV®"
-    },
-    {
-      "id": "81d9d9cd-292f-4027-bb53-fae52bd179ca",
-      "categoryID": "8c417be2-e765-4bf6-a4e0-16ed45a85d33",
-      "companieId": "52d8b8ca-30ef-4654-9721-5bd76713e054",
-      "title": "Dipl. Ing. / Master of Science (m/w/d) - Lebensmitteltechnologie",
-      "description": "Die corosys food technology GmbH ist ein weltweit agierendes Unternehmen. Mit unseren Anlagen beliefern wir namhafte Kunden in der Lebensmittel-, Getränke- und chemisch/pharmazeutischen Industrie. Unsere energieeffizienten Verdampfer-Anlagen leisten einen wertvollen Beitrag zur ressourcenschonenden Umsetzung des Megatrends der Instantisierung von Lebensmitteln und Grundstoffen.\n\nZur Verstärkung unseres Teams suchen wir\n\nDIPL. ING. / MASTER OF SCIENCE (m/w/d)\n\n- Technologie und Biotechnologie der Lebensmittel\n- Brauwesen und Getränketechnologie\n- Chemieingenieurwesen\n- Energie- und Prozesstechnik\n- Industrielle Biotechnologie\n\nzur weltweiten selbstständigen Projektierung und technologischen Inbetriebnahme\n\nDiese Vorteile erwarten Dich\nEine interessante und abwechslungsreiche Tätigkeit in einem jungen und erfolgreichen Unternehmen und die sich daraus ergebenden Freiräume für Ihre Kreativitäts- und Persönlichkeitsentwicklung in der corosys-Firmengruppe.\n\nNeben einer leistungsgerechten Bezahlung erhalten Sie ein Coaching durch erfahrene Kollegen, interne und externe Fortbildung sowie freiwillige Sozialleistungen und eine betriebliche Altersvorsorge. Gerne bieten wir auch Berufseinsteigern die Chance, sich in einer vielseitigen und anspruchsvollen Aufgabe zu entwickeln.\n\nDeine Aufgaben\nIm Mittelpunkt dieser anspruchsvollen Tätigkeit stehen die weltweite, selbstständige und eigenverantwortliche Projektierung in der Angebots- und Realisierungsphase sowie die Inbetriebnahme komplexer verfahrenstechnischer Anlagen der thermischen Trenntechnik. Sie konzipieren Anlagen, erstellen Prozessbeschreibungen, nehmen neue Anlagen in Betrieb, optimieren bestehende Anlagen in Form von technologischer Beratung und weisen entsprechend das Bedienpersonal ein.\n\nDas wünscht sich Dein neuer Arbeitgeber\n- Abgeschlossenes Studium aus den oben gennannten Studiengängen\n- Alternativ abgeschlossene Ausbildung/Fortbildung und fundierte Kenntnisse der Technologie der Bier- und Getränkeherstellung oder des Molkereiwesens\n- Weltweite Reisebereitschaft (20-30%)\n- Affinität zur thermischen Verfahrenstechnik\n- Gute Kennnisse der Funktionen prozesstechnischer Anlagen und deren Komponenten\n- Strukturierte, systematische und ergebnisorientierte Arbeitsweise\n- Analytisches Denkvermögen\n- Gute Englischkenntnisse in Wort und Schrift, weitere Fremdsprachen sind von Vorteil\n- Kenntnisse der MS-Office Tools\n- Kommunikationsstärke, Teamfähigkeit, Selbständigkeit und Flexibilität\n\nJetzt bewerben!\n\nSchicke uns Deinen Lebenslauf einfach und bequem über den nachfolgenden Link.\n\nWebsite: https://recrutis.de/lebenslauf-hochladen/\n\nWhatsApp: +49 176 2483 9484"
-    },
-    {
-      "id": "d8458cf7-986a-46f3-8fd4-efbd56125a76",
-      "categoryID": "8c417be2-e765-4bf6-a4e0-16ed45a85d33",
-      "companieId": "44b7a287-6b23-4a77-ac77-fa0e5e7789c3",
-      "title": "Food Scientist Intern (mandatory)",
-      "description": "Die corosys food technology GmbH ist ein weltweit agierendes Unternehmen. Mit unseren Anlagen beliefern wir namhafte Kunden in der Lebensmittel-, Getränke- und chemisch/pharmazeutischen Industrie. Unsere energieeffizienten Verdampfer-Anlagen leisten einen wertvollen Beitrag zur ressourcenschonenden Umsetzung des Megatrends der Instantisierung von Lebensmitteln und Grundstoffen.\n\nZur Verstärkung unseres Teams suchen wir\n\nDIPL. ING. / MASTER OF SCIENCE (m/w/d)\n\n- Technologie und Biotechnologie der Lebensmittel\n- Brauwesen und Getränketechnologie\n- Chemieingenieurwesen\n- Energie- und Prozesstechnik\n- Industrielle Biotechnologie\n\nzur weltweiten selbstständigen Projektierung und technologischen Inbetriebnahme\n\nDiese Vorteile erwarten Dich\nEine interessante und abwechslungsreiche Tätigkeit in einem jungen und erfolgreichen Unternehmen und die sich daraus ergebenden Freiräume für Ihre Kreativitäts- und Persönlichkeitsentwicklung in der corosys-Firmengruppe.\n\nNeben einer leistungsgerechten Bezahlung erhalten Sie ein Coaching durch erfahrene Kollegen, interne und externe Fortbildung sowie freiwillige Sozialleistungen und eine betriebliche Altersvorsorge. Gerne bieten wir auch Berufseinsteigern die Chance, sich in einer vielseitigen und anspruchsvollen Aufgabe zu entwickeln.\n\nDeine Aufgaben\nIm Mittelpunkt dieser anspruchsvollen Tätigkeit stehen die weltweite, selbstständige und eigenverantwortliche Projektierung in der Angebots- und Realisierungsphase sowie die Inbetriebnahme komplexer verfahrenstechnischer Anlagen der thermischen Trenntechnik. Sie konzipieren Anlagen, erstellen Prozessbeschreibungen, nehmen neue Anlagen in Betrieb, optimieren bestehende Anlagen in Form von technologischer Beratung und weisen entsprechend das Bedienpersonal ein.\n\nDas wünscht sich Dein neuer Arbeitgeber\n- Abgeschlossenes Studium aus den oben gennannten Studiengängen\n- Alternativ abgeschlossene Ausbildung/Fortbildung und fundierte Kenntnisse der Technologie der Bier- und Getränkeherstellung oder des Molkereiwesens\n- Weltweite Reisebereitschaft (20-30%)\n- Affinität zur thermischen Verfahrenstechnik\n- Gute Kennnisse der Funktionen prozesstechnischer Anlagen und deren Komponenten\n- Strukturierte, systematische und ergebnisorientierte Arbeitsweise\n- Analytisches Denkvermögen\n- Gute Englischkenntnisse in Wort und Schrift, weitere Fremdsprachen sind von Vorteil\n- Kenntnisse der MS-Office Tools\n- Kommunikationsstärke, Teamfähigkeit, Selbständigkeit und Flexibilität\n\nJetzt bewerben!\n\nSchicke uns Deinen Lebenslauf einfach und bequem über den nachfolgenden Link.\n\nWebsite: https://recrutis.de/lebenslauf-hochladen/\n\nWhatsApp: +49 176 2483 9484"
     }
   ],
   "category": [
@@ -314,20 +220,8 @@
   "matches": [
     {
       "id": "5170eae5-5ab3-44e4-a2ba-1180cc4fbe09",
-      "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
-      "offerId": "b37873ba-98db-4864-b734-f9c1d78ebb0e",
-      "isMatch": false
-    },
-    {
-      "id": "ff4cc087-8846-447e-a976-f8ccfe70104e",
-      "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
-      "offerId": "26bcb643-850e-4e99-9a3e-4fa8279fa12a",
-      "isMatch": false
-    },
-    {
-      "id": "79114403-78e0-4b7a-b25c-37e155317442",
-      "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
-      "offerId": "b4e12587-75ee-46de-934e-18795359bef2",
+      "companieId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "userId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
       "isMatch": false
     }
   ]
