@@ -5,21 +5,89 @@
       "firstname": "Torben",
       "lastname": "Giga",
       "username": "gigaTorben",
-      "mail": "gigaTorben@me.de"
+      "mail": "gigaTorben@me.de",
+      
     },
     {
       "id": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
       "firstname": "Blanca",
       "lastname": "Zimteis",
       "username": "zimteisBlanca",
-      "mail": "zimteis@me.de"
+      "mail": "zimteis@me.de",
+      
     },
     {
       "id": "14659e2b-5a4e-4c98-9acd-6bcae5e21e19",
       "firstname": "Giuliano",
       "lastname": "Esposito",
       "username": "maschineChronike",
-      "mail": "chronike@me.de"
+      "mail": "chronike@me.de",
+      
+    }
+  ],
+  "filterdetails": [
+    {
+      "id:": "",
+      "location:": "",
+      "employmentType": "",
+      "education": "",
+      "howWork": []
+    },
+    {
+      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
+      "location": "mainz",
+      "employmentType": "fulltime",
+      "education": "Student",
+      "howWork": "remote",
+      "id": "4aa752ac-24a8-42b8-a783-18a01ab445bc"
+    },
+    {
+      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
+      "location": "stuttgart",
+      "employmentType": "trainee",
+      "education": "Master",
+      "howWork": "remote",
+      "id": "5dd9f302-6247-494d-a9d9-3fb9a7fa5661"
+    },
+    {
+      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
+      "location": "dusseldorf",
+      "employmentType": "freelancer",
+      "education": "Fachabitur",
+      "howWork": "remote",
+      "id": "1704dc41-6bfc-4423-80bd-e3a3a92157f6"
+    },
+    {
+      "userId": "14659e2b-5a4e-4c98-9acd-6bcae5e21e19",
+      "location": "dusseldorf",
+      "employmentType": "trainee",
+      "education": "Student",
+      "howWork": "office",
+      "id": "8c70cd97-c69c-4535-b751-c28d29642054"
+    },
+    {
+      "userId": "14659e2b-5a4e-4c98-9acd-6bcae5e21e19",
+      "location": "dusseldorf",
+      "employmentType": "open-end",
+      "education": "Student",
+      "howWork": "office",
+      "id": "edb45e3e-b705-4586-ada2-d060d84fa061"
+    },
+    {
+      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
+      "location": "dusseldorf",
+      "employmentType": "part-time",
+      "education": "Student",
+      "howWork": "office",
+      "id": "947abe58-e314-4be8-9082-3bb864e1501e"
+    },
+    {
+      "userId": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
+      "location": "dusseldorf",
+      "employmentType": "part-time",
+      "education": "Student",
+      "howWork": "office",
+      "id": "e51515a4-365b-4feb-8c5c-1b4c84833996"
     }
   ],
   "companies": [
