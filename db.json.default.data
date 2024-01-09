@@ -3,16 +3,23 @@
     {
       "id": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
       "firstname": "Torben",
-      "lastname": "Sievertsen",
-      "username": "tobbitobbsen",
-      "mail": "torben.s@me.de"
+      "lastname": "Giga",
+      "username": "gigaTorben",
+      "mail": "gigaTorben@me.de"
     },
     {
       "id": "a8ce0500-2c2b-405a-9e2a-f5e49f2a66c6",
       "firstname": "Blanca",
       "lastname": "Zimteis",
-      "username": "blanciblancs",
-      "mail": "blanca@me.de"
+      "username": "zimteisBlanca",
+      "mail": "zimteis@me.de"
+    },
+    {
+      "id": "14659e2b-5a4e-4c98-9acd-6bcae5e21e19",
+      "firstname": "Giuliano",
+      "lastname": "Esposito",
+      "username": "maschineChronike",
+      "mail": "chronike@me.de"
     }
   ],
   "companies": [
@@ -74,7 +81,7 @@
   "offers": [
     {
       "id": "b37873ba-98db-4864-b734-f9c1d78ebb0e",
-      "categoryID": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
+      "categoryId": "8c9df914-4a5f-45c2-a82e-9cde3fbcf842",
       "companieId": "ac13e22f-fb24-4ab1-b16c-7047ffed62fb",
       "title": "Junior Softwareentwickler (m/w/d)",
       "description": "Ab sofort in Friedrichshafen oder Karlsruhe.\n\nDas erwartet dich bei uns:\n\n- Du startest als neues Mitglied in einem unserer Teams im Bereich Connected Services, IoT und Digitalisierung.\n- Die Möglichkeit, dein Know-how innerhalb verschiedener Projektteams auszubauen und in individuellen agilen Kundenprojekten mitzuwirken.\n- Erfahrene Software Developer, die dir als Coaches zur Seite stehen.\n- Kontinuierlicher Wissensaustausch und Weiterentwicklungsmöglichkeiten.\n\nTechnologie- und Methodenumfeld:\n- Java EE, Java Frameworks (z.B. Spring)\n- Container-Tools (z.B. Docker, Kubernetes)\n- Cloud-Entwicklung (z.B. Microsoft Azure, AWS, OpenShift)\n- Datenbanken (Oracle, PostgreSQL)\n- Agile Vorgehensweisen (Scrum)\n\nDeine Tätigkeiten:\n\n- Mitarbeit bei der Entwicklung von individueller Software in agilen Kundenprojekten\n- Umsetzung von qualitätssichernden Maßnahmen innerhalb von Projekten\n- Analyse und Weiterentwicklung von Kundenanforderungen\n- Möglichkeit zur Weiterentwicklung als Software Architekt (m/w/d) oder DevOps Engineer (m/w/d)\n- Bei Interesse: Mitarbeit in der Konzeption als Schnittstellentätigkeit zwischen Development und Consulting\n\nDein Profil:\n\n- Erfolgreich absolviertes Studium im Bereich Informatik, Wirtschaftsinformatik oder eine vergleichbare Ausbildung\n- Berührungspunkte im genannten Technologie- und Methodenumfeld\n- Zuverlässiger Teamplayer mit hoher Lern- und Einsatzbereitschaft\n- Sehr gute Deutsch- und gute Englischkenntnisse\n\nDeine Ansprechpartnerin:\n\nSonja Egle\nPersonalreferentin\n\nTelefon\n+49 7541 70078-728\n\nE-Mail\nkarriere@doubleslash.de\n\nAnschreiben & Lebenslauf\n\nAbschlusszeugnisse & aktuelle Zeugnisse/Notenspiegel\n\nArbeitszeugnisse & Zertifikate (soweit vorhanden)\n\nStandortwunsch, Startdatum/Verfügbarkeit, Gehaltsvorstellungen (bei Festanstellung)"
@@ -239,8 +246,23 @@
   "matches": [
     {
       "id": "5170eae5-5ab3-44e4-a2ba-1180cc4fbe09",
-      "companieId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
-      "userId": "f33fe51c-52bd-402c-8fb0-0d61d9d9780d",
+      "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
+      "companieId": "ac13e22f-fb24-4ab1-b16c-7047ffed62fb",
+      "offerId": "b37873ba-98db-4864-b734-f9c1d78ebb0e",
+      "isMatch": false
+    },
+    {
+      "id": "ff4cc087-8846-447e-a976-f8ccfe70104e",
+      "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
+      "companieId": "a84da0f3-b9b2-42ed-a0b6-40dedaa19532",
+      "offerId": "26bcb643-850e-4e99-9a3e-4fa8279fa12a",
+      "isMatch": false
+    },
+    {
+      "id": "79114403-78e0-4b7a-b25c-37e155317442",
+      "userId": "f4db1a91-b89d-4249-bd60-dbec7839fdbb",
+      "companieId": "a84da0f3-b9b2-42ed-a0b6-40dedaa19532",
+      "offerId": "b4e12587-75ee-46de-934e-18795359bef2",
       "isMatch": false
     }
   ]
